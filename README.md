@@ -5,7 +5,7 @@
 - 💻 I specialize in **Full Stack Development** and am passionate about integrating **AI** into applications.
 - 🌐 Currently working with **MERN, Java, Python, and Spring Boot**.
 - 🔥 Actively exploring the fields of **Data Science, Machine Learning, and Web3**.
-- 📫 You can reach me at **sankirth.your.email@example.com**.
+- 📫 You can reach me at **sankirthkoparde@gmail.com**.
 
 ---
 
@@ -41,5 +41,3 @@
 - 🤖 **AI Ecommerce System:** Integrating GenAI and data science for a personalized shopping experience. `[Link to Repo]`
 - 🧠 **Data Science & ML Projects:** A collection of notebooks and projects exploring various machine learning algorithms. `[Link to Repo]`
 - 💚 **Healthcare Chatbot:** A conversational AI to provide initial healthcare support and information. `[Link to Repo]`
-
-➡️ [See all my projects...](https://github.com/YOUR-USERNAME?tab=repositories)
