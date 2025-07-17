@@ -1,40 +1,26 @@
-<table>
-  <tr>
-    <td valign="top" width="60%">
-      <h1 align="left">Hi 👋, I'm Sankirth Koparde</h1>
-      <h3 align="left">A Full Stack Developer and AI enthusiast.</h3>
-      <p align="left">
-        <a href="https://komarev.com/ghpvc/?username=YOUR-USERNAME">
-          <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-        </a>
-      </p>
+<h1 align="center">Hi 👋, I'm Sankirth Koparde</h1>
+<h3 align="center">A Full Stack Developer and AI enthusiast.</h3>
 
-      - 🎓 I'm a final year **Computer Science student**, graduating in 2025.
-      - 💻 I specialize in **Full Stack Development** and am passionate about integrating **AI** into applications.
-      - 🌐 Currently working with **MERN, Java, Python, and Spring Boot**.
-      - 🔥 Actively exploring the fields of **Data Science, Machine Learning, and Web3**.
-      - 📫 You can reach me at **sankirthkoparde@gmail.com**.
-
-      <h3 align="left">Connect with me:</h3>
-      <p align="left">
-        <a href="https://linkedin.com/in/your-linkedin-profile" target="blank">
-          <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankirth-koparde-linkedin" height="30" width="40" />
-        </a>
-      </p>
-
-      <h3 align="left">Languages and Tools:</h3>
-      <p align="left">
-        <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,nodejs,express,spring,java,python,mysql,mongodb,firebase,git,docker,web3js" />
-        </a>
-      </p>
-    </td>
-    <td valign="top" width="40%">
-      <br>
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGVoZ25hOGg0OXhvaDI4dHZ6dXR1cDFjaXFkZndqZ3JzbDBuMjN4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/M9gbBd9hCsO5i/giphy.gif" alt="coding-gif" width="100%"/>
-    </td>
-  </tr>
-</table>
+- 🎓 I'm a final year **Computer Science student**, graduating in 2025.
+- 💻 I specialize in **Full Stack Development** and am passionate about integrating **AI** into applications.
+- 🌐 Currently working with **MERN, Java, Python, and Spring Boot**.
+- 🔥 Actively exploring the fields of **Data Science, Machine Learning, and Web3**.
+- 📫 You can reach me at **sankirthkoparde@gmail.com**.
 
 ---
 
+### 🔗 Connect with me:
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin-profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sankirth-linkedin" height="30" width="40" /></a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools:
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,nodejs,express,spring,java,python,mysql,mongodb,firebase,git,docker,web3js" />
+  </a>
+</p>
+
+---
