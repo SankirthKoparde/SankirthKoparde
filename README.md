@@ -34,10 +34,3 @@
 </p>
 
 ---
-
-### 🚀 My Current Projects:
-*Remember to pin these repositories to your profile!*
-
-- 🤖 **AI Ecommerce System:** Integrating GenAI and data science for a personalized shopping experience. `[Link to Repo]`
-- 🧠 **Data Science & ML Projects:** A collection of notebooks and projects exploring various machine learning algorithms. `[Link to Repo]`
-- 💚 **Healthcare Chatbot:** A conversational AI to provide initial healthcare support and information. `[Link to Repo]`
