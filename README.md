@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sankirth</h1>
+<h1 align="center">Hi 👋, I'm Sankirth Koparde</h1>
 <h3 align="center">A Full Stack Developer and AI enthusiast.</h3>
 
 - 🎓 I'm a final year **Computer Science student**, graduating in 2025.
