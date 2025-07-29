@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sankirth Koparde</h1>
 <h3 align="center">A Full Stack Developer and AI enthusiast.</h3>
 
-- 🎓 I'm a final year **Computer Science student**, graduating in 2025.
+- 🎓 I'm a **Computer Science student**, graduating in 2025.
 - 💻 I specialize in **Full Stack Development** and am passionate about integrating **AI** into applications.
 - 🌐 Currently working with **MERN, Java, Python, and Spring Boot**.
 - 🔥 Actively exploring the fields of **Data Science, Machine Learning, and Web3**.
